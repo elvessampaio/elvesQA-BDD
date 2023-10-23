@@ -4,7 +4,6 @@
 
 Este repositório contém um exemplo de projeto que utiliza o BDD (Behavior-Driven Development) e uma esteira CI/CD para garantir a qualidade do software e automatizar a entrega de novas funcionalidades.
 
-![BDD e CI/CD](bdd_cicd.png)
 
 ## Descrição
 
